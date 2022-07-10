@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+nav{
+    background-color: #571aba;
+    width: 100%;
+}
+
+nav .logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav .logo img{
+    width: 5%;
+}
+
+nav .logo h2{
+    color: #fff;
+}
+
+main{
+    background-color: #fc083d;
+    height: 89.6vh;
+}
+
+aside{
+    background-color: #ba3a1a;
+    height: 569px;
+    width: 400px;
+}
+
+aside ul{
+    list-style: none;
+}
+
+aside ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.notifcations .note1 img{
+    width: 800%;
+}
